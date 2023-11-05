@@ -1,0 +1,12 @@
+BOT_TOKEN = "6309420507:AAFNm9fIvGThyVRiBl5Po99QuIN5Xm8J2hg"
+BOT_ID = "6309420507"
+BOT_ADDRES = "https://t.me/examplehello_bot"
+CHANNEL_ID = "-1001882870244"
+CHANNEL_URLS = "https://t.me/examplehello"
+SUPER_USER_ID = 6122258979
+ADMIN = 5415379354
+
+admins = {
+    "SUPER_USER_ID": SUPER_USER_ID,
+    "ADMIN": ADMIN,
+}
